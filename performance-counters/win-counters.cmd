@@ -21,7 +21,7 @@ copy /y timestamp.cmd %metricsDrive%\%metricsHome%
 @call timestamp.cmd
 
 set countersFile=win-%1%-counters.txt
-set metricsFile=win-%1%-counters-%timestamp%.csv
+set metricsFile=win-%1%-counters--%%timestamp%.csv
 mkdir %metricsDrive%%metricsHome%\%counterFileDir%
 
 copy /y counter-files\%countersFile% %metricsDrive%%metricsHome%\%counterFileDir%
