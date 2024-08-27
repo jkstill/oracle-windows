@@ -1,0 +1,4 @@
+"\Database(HealthService)\Table Open Cache % Hit"
+"\Database(HealthService)\Table Open Cache Hits/sec"
+"\Database(HealthService)\Table Open Cache Misses/sec"
+"\Database(HealthService)\Table Opens/sec"

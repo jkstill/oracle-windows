@@ -1,0 +1,211 @@
+\Database(HealthService)\Pages Converted/sec
+\Database(HealthService)\Pages Converted
+\Database(HealthService)\Records Converted/sec
+\Database(HealthService)\Records Converted
+\Database(HealthService)\Defragmentation Tasks
+\Database(HealthService)\Defragmentation Tasks Pending
+\Database(HealthService)\Sessions In Use
+\Database(HealthService)\Sessions % Used
+\Database(HealthService)\Table Open Cache % Hit
+\Database(HealthService)\Table Open Cache Hits/sec
+\Database(HealthService)\Table Open Cache Misses/sec
+\Database(HealthService)\Table Opens/sec
+\Database(HealthService)\Log Bytes Write/sec
+\Database(HealthService)\Log Bytes Generated/sec
+\Database(HealthService)\Log Threads Waiting
+\Database(HealthService)\Log Writes/sec
+\Database(HealthService)\Log Record Stalls/sec
+\Database(HealthService)\Version buckets allocated
+\Database(HealthService)\Database Cache Misses/sec
+\Database(HealthService)\Database Cache % Hit
+\Database(HealthService)\Database Cache Requests/sec
+\Database(HealthService)\Database Page Faults/sec
+\Database(HealthService)\Database Page Evictions/sec
+\Database(HealthService)\Database Page Fault Stalls/sec
+\Database(HealthService)\Database Cache Size (MB)
+\Database(HealthService)\Database Cache Size
+\Database(HealthService)\Database Cache Size Resident
+\Database(HealthService)\Database Cache Size Resident (MB)
+\Database(HealthService)\I/O Database Reads/sec
+\Database(HealthService)\I/O Database Reads Average Latency
+\Database(HealthService)\I/O Log Reads/sec
+\Database(HealthService)\I/O Database Writes/sec
+\Database(HealthService)\I/O Database Writes Average Latency
+\Database(HealthService)\I/O Log Writes/sec
+\Database(HealthService)\I/O Log Writes Average Latency
+\Database ==> TableClasses(HealthService/_Total)\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Escrow (Indices))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Escrow (LV))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Escrow (Primary))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Identity (Indices))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Identity (LV))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Identity (Primary))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Data Publisher Manager (Indices)\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Data Publisher Manager (LV))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Data Publisher Manager (Primary)\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Distributed Acknowledgements (I)\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Distributed Acknowledgements (L)\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Distributed Acknowledgements (P)\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Execution Manager (Indices))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Execution Manager (LV))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Execution Manager (Primary))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/File Transfer (Indices))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/File Transfer (LV))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/File Transfer (Primary))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Job Execution Cache (Indices))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Job Execution Cache (LV))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Job Execution Cache (Primary))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Queue (Indices))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Queue (LV))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/Queue (Primary))\Database Cache Size (MB)
+\Database ==> TableClasses(HealthService/_Total)\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Escrow (Indices))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Escrow (LV))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Escrow (Primary))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Identity (Indices))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Identity (LV))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Identity (Primary))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Data Publisher Manager (Indices)\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Data Publisher Manager (LV))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Data Publisher Manager (Primary)\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Distributed Acknowledgements (I)\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Distributed Acknowledgements (L)\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Distributed Acknowledgements (P)\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Execution Manager (Indices))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Execution Manager (LV))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Execution Manager (Primary))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/File Transfer (Indices))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/File Transfer (LV))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/File Transfer (Primary))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Job Execution Cache (Indices))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Job Execution Cache (LV))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Job Execution Cache (Primary))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Queue (Indices))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Queue (LV))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/Queue (Primary))\Database Cache Misses/sec
+\Database ==> TableClasses(HealthService/_Total)\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Escrow (Indices))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Escrow (LV))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Escrow (Primary))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Identity (Indices))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Identity (LV))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Identity (Primary))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Data Publisher Manager (Indices)\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Data Publisher Manager (LV))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Data Publisher Manager (Primary)\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Distributed Acknowledgements (I)\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Distributed Acknowledgements (L)\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Distributed Acknowledgements (P)\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Execution Manager (Indices))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Execution Manager (LV))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Execution Manager (Primary))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/File Transfer (Indices))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/File Transfer (LV))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/File Transfer (Primary))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Job Execution Cache (Indices))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Job Execution Cache (LV))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Job Execution Cache (Primary))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Queue (Indices))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Queue (LV))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/Queue (Primary))\Database Cache % Hit
+\Database ==> TableClasses(HealthService/_Total)\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Escrow (Indices))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Escrow (LV))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Escrow (Primary))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Identity (Indices))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Identity (LV))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Identity (Primary))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Data Publisher Manager (Indices)\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Data Publisher Manager (LV))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Data Publisher Manager (Primary)\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Distributed Acknowledgements (I)\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Distributed Acknowledgements (L)\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Distributed Acknowledgements (P)\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Execution Manager (Indices))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Execution Manager (LV))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Execution Manager (Primary))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/File Transfer (Indices))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/File Transfer (LV))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/File Transfer (Primary))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Job Execution Cache (Indices))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Job Execution Cache (LV))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Job Execution Cache (Primary))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Queue (Indices))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Queue (LV))\Database Cache Requests/sec
+\Database ==> TableClasses(HealthService/Queue (Primary))\Database Cache Requests/sec
+\Database ==> Instances(HealthService/_Total)\Pages Converted/sec
+\Database ==> Instances(HealthService/Health Service Store)\Pages Converted/sec
+\Database ==> Instances(HealthService/_Total)\Pages Converted
+\Database ==> Instances(HealthService/Health Service Store)\Pages Converted
+\Database ==> Instances(HealthService/_Total)\Records Converted/sec
+\Database ==> Instances(HealthService/Health Service Store)\Records Converted/sec
+\Database ==> Instances(HealthService/_Total)\Records Converted
+\Database ==> Instances(HealthService/Health Service Store)\Records Converted
+\Database ==> Instances(HealthService/_Total)\Defragmentation Tasks
+\Database ==> Instances(HealthService/Health Service Store)\Defragmentation Tasks
+\Database ==> Instances(HealthService/_Total)\Defragmentation Tasks Pending
+\Database ==> Instances(HealthService/Health Service Store)\Defragmentation Tasks Pending
+\Database ==> Instances(HealthService/_Total)\Sessions In Use
+\Database ==> Instances(HealthService/Health Service Store)\Sessions In Use
+\Database ==> Instances(HealthService/_Total)\Sessions % Used
+\Database ==> Instances(HealthService/Health Service Store)\Sessions % Used
+\Database ==> Instances(HealthService/_Total)\Table Open Cache % Hit
+\Database ==> Instances(HealthService/Health Service Store)\Table Open Cache % Hit
+\Database ==> Instances(HealthService/_Total)\Table Open Cache Hits/sec
+\Database ==> Instances(HealthService/Health Service Store)\Table Open Cache Hits/sec
+\Database ==> Instances(HealthService/_Total)\Table Open Cache Misses/sec
+\Database ==> Instances(HealthService/Health Service Store)\Table Open Cache Misses/sec
+\Database ==> Instances(HealthService/_Total)\Table Opens/sec
+\Database ==> Instances(HealthService/Health Service Store)\Table Opens/sec
+\Database ==> Instances(HealthService/_Total)\Log Bytes Write/sec
+\Database ==> Instances(HealthService/Health Service Store)\Log Bytes Write/sec
+\Database ==> Instances(HealthService/_Total)\Log Bytes Generated/sec
+\Database ==> Instances(HealthService/Health Service Store)\Log Bytes Generated/sec
+\Database ==> Instances(HealthService/_Total)\Log Threads Waiting
+\Database ==> Instances(HealthService/Health Service Store)\Log Threads Waiting
+\Database ==> Instances(HealthService/_Total)\Log Generation Checkpoint Depth
+\Database ==> Instances(HealthService/Health Service Store)\Log Generation Checkpoint Depth
+\Database ==> Instances(HealthService/_Total)\Log Generation Checkpoint Depth Target
+\Database ==> Instances(HealthService/Health Service Store)\Log Generation Checkpoint Depth Target
+\Database ==> Instances(HealthService/_Total)\Log Checkpoint Depth as a % of Target
+\Database ==> Instances(HealthService/Health Service Store)\Log Checkpoint Depth as a % of Target
+\Database ==> Instances(HealthService/_Total)\Log Generation Checkpoint Depth Max
+\Database ==> Instances(HealthService/Health Service Store)\Log Generation Checkpoint Depth Max
+\Database ==> Instances(HealthService/_Total)\Log Generation Loss Resiliency Depth
+\Database ==> Instances(HealthService/Health Service Store)\Log Generation Loss Resiliency Depth
+\Database ==> Instances(HealthService/_Total)\Log Files Generated
+\Database ==> Instances(HealthService/Health Service Store)\Log Files Generated
+\Database ==> Instances(HealthService/_Total)\Log Files Generated Prematurely
+\Database ==> Instances(HealthService/Health Service Store)\Log Files Generated Prematurely
+\Database ==> Instances(HealthService/_Total)\Log File Current Generation
+\Database ==> Instances(HealthService/Health Service Store)\Log File Current Generation
+\Database ==> Instances(HealthService/_Total)\Log Writes/sec
+\Database ==> Instances(HealthService/Health Service Store)\Log Writes/sec
+\Database ==> Instances(HealthService/_Total)\Log Record Stalls/sec
+\Database ==> Instances(HealthService/Health Service Store)\Log Record Stalls/sec
+\Database ==> Instances(HealthService/_Total)\Version buckets allocated
+\Database ==> Instances(HealthService/Health Service Store)\Version buckets allocated
+\Database ==> Instances(HealthService/_Total)\Database Cache Size (MB)
+\Database ==> Instances(HealthService/Health Service Store)\Database Cache Size (MB)
+\Database ==> Instances(HealthService/_Total)\Database Cache Misses/sec
+\Database ==> Instances(HealthService/Health Service Store)\Database Cache Misses/sec
+\Database ==> Instances(HealthService/_Total)\Database Cache % Hit
+\Database ==> Instances(HealthService/Health Service Store)\Database Cache % Hit
+\Database ==> Instances(HealthService/_Total)\Database Cache Requests/sec
+\Database ==> Instances(HealthService/Health Service Store)\Database Cache Requests/sec
+\Database ==> Instances(HealthService/_Total)\Streaming Backup Pages Read/sec
+\Database ==> Instances(HealthService/Health Service Store)\Streaming Backup Pages Read/sec
+\Database ==> Instances(HealthService/_Total)\I/O Database Reads/sec
+\Database ==> Instances(HealthService/Health Service Store)\I/O Database Reads/sec
+\Database ==> Instances(HealthService/_Total)\I/O Database Reads Average Latency
+\Database ==> Instances(HealthService/Health Service Store)\I/O Database Reads Average Latency
+\Database ==> Instances(HealthService/_Total)\I/O Log Reads/sec
+\Database ==> Instances(HealthService/Health Service Store)\I/O Log Reads/sec
+\Database ==> Instances(HealthService/_Total)\I/O Database Writes/sec
+\Database ==> Instances(HealthService/Health Service Store)\I/O Database Writes/sec
+\Database ==> Instances(HealthService/_Total)\I/O Database Writes Average Latency
+\Database ==> Instances(HealthService/Health Service Store)\I/O Database Writes Average Latency
+\Database ==> Instances(HealthService/_Total)\I/O Log Writes/sec
+\Database ==> Instances(HealthService/Health Service Store)\I/O Log Writes/sec
+\Database ==> Instances(HealthService/_Total)\I/O Log Writes Average Latency
+\Database ==> Instances(HealthService/Health Service Store)\I/O Log Writes Average Latency

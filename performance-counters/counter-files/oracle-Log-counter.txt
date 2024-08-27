@@ -1,0 +1,5 @@
+"\Database(HealthService)\Log Bytes Write/sec"
+"\Database(HealthService)\Log Bytes Generated/sec"
+"\Database(HealthService)\Log Threads Waiting"
+"\Database(HealthService)\Log Writes/sec"
+"\Database(HealthService)\Log Record Stalls/sec"

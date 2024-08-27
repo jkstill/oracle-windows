@@ -1,0 +1,152 @@
+//	Copyright (c) Oracle Corporation 2006.	All rights reserved.
+//
+//
+//NAME
+//	    OH/dbs/opctrnm.ini - Counter Loading file
+//DESCRIPTION
+//	File that contains description of counters to be loaded into the
+//	registry.
+//RELATED DOCUMENTS
+//
+//
+//NOTES
+//
+//	Counter name and Explain text definition file (.INI) file is used
+//	by LODCTR to load the names into the registry.
+//
+//	PLEASE MAKE SURE THAT
+//
+//	\HKEY_LOCAL_MACHINE\Sytem\CurrentControlSet\Services\Oracle11\Performace
+//
+//	key does exist in the registry before running lodctr
+//
+//MODIFIED
+//	name	  MM/DD/YY : explanation
+//  sthachap  11/17/06 : update for 11g
+//	psciarra  10/11/95 : release
+//	rsubbaro  07/01/95 : Creation
+//
+//
+//*****************************************************************************
+
+[info]
+drivername=Oracle11
+symbolfile=C:\oracle\product\11.2.0\dbhome_1\dbs\opctrn11.h
+
+// language = ENGLISH
+[languages]
+009=English
+
+[text]
+
+// Datafile object - DATA FILES
+ORA11_DATAFILE_OBJ_009_NAME=Oracle11 Data Files
+ORA11_DATAFILE_OBJ_009_HELP=The Oracle11 Data Files Object handles data file statistics in Oracle11.
+
+// Datafile object - Physical reads
+ORA11_DATAFILE_OBJ_PHYSICAL_READ_009_NAME=phyrds/sec
+ORA11_DATAFILE_OBJ_PHYSICAL_READ_009_HELP=Is the rate at which physical reads are being done to this file.
+
+// Datafile object - Physical writes
+ORA11_DATAFILE_OBJ_PHYSICAL_WRITE_009_NAME=phywrts/sec
+ORA11_DATAFILE_OBJ_PHYSICAL_WRITE_009_HELP=Is the rate at which physical writes are being done to this file.
+
+// SORTS object - SORTS 
+ORA11_SORTS_OBJ_009_NAME=Oracle11 Sorts
+ORA11_SORTS_OBJ_009_HELP=The Oracle11 Sorts Object handles sorts statistics in Oracle11.
+
+// SORTS object - Memory
+ORA11_SORTS_OBJ_MEMORY_009_NAME=sorts in memory/sec
+ORA11_SORTS_OBJ_MEMORY_009_HELP=Is the sorts in memory per second.
+
+// SORTS object - Disk
+ORA11_SORTS_OBJ_DISK_009_NAME=sorts on disk/sec
+ORA11_SORTS_OBJ_DISK_009_HELP=Is the sorts on disk per second.
+
+// DYNAMIC object - SPACE
+ORA11_SPACE_OBJ_009_NAME=Oracle11 Dynamic Space Management
+ORA11_SPACE_OBJ_009_HELP=The Oracle11 Space Management Object handles dynamic space management in Oracle11.
+
+// DYNAMIC object - Recursive
+ORA11_SPACE_OBJ_RECURSIVE_009_NAME=recursive calls/sec
+ORA11_SPACE_OBJ_RECURSIVE_009_HELP=Is the recursive calls per second.
+
+// LIBRARY object - LIBRARY	
+ORA11_LIBRARY_OBJ_009_NAME=Oracle11 Library Cache
+ORA11_LIBRARY_OBJ_009_HELP=The Oracle11 Library Cache Object handles the library cache ratio.
+
+// LIBRARY object - reloads	
+ORA11_LIBRARY_OBJ_RELOADS_009_NAME=% reloads/pins
+ORA11_LIBRARY_OBJ_RELOADS_009_HELP=Is the library cache reloads/pins percentage.
+
+// LIBRARY object - pins
+ORA11_LIBRARY_OBJ_PINS_009_NAME=sum of pins
+ORA11_LIBRARY_OBJ_PINS_009_HELP=Is the base for the reloads/pins percentage.
+
+// DICTIONARY object - DICTIONARY
+ORA11_DICTIONARY_OBJ_009_NAME=Oracle11 Data Dictionary Cache
+ORA11_DICTIONARY_OBJ_009_HELP=The Oracle11 Data Dictionary Cache Object handles the data dictionary cache ratio.
+
+// DICTIONARY object - getmisses
+ORA11_DICTIONARY_OBJ_GETMISSES_009_NAME=% getmisses/gets
+ORA11_DICTIONARY_OBJ_GETMISSES_009_HELP=Is the data dictionary cache getmisses/gets percentage.
+
+// DICTIONARY object - gets
+ORA11_DICTIONARY_OBJ_GETS_009_NAME=sum of gets
+ORA11_DICTIONARY_OBJ_GETS_009_HELP=Is the base for the getmisses/gets percentage.
+
+// FREELIST object - FREELIST	
+ORA11_FREELIST_OBJ_009_NAME=Oracle11 Free List
+ORA11_FREELIST_OBJ_009_HELP=The Oracle11 Free List Object handles the free list contention.
+
+// FREELIST object - waits
+ORA11_FREELIST_OBJ_WAITS_009_NAME=% freelist waits/requests
+ORA11_FREELIST_OBJ_WAITS_009_HELP=Is the free list waits/requests percentage.
+
+// FREELIST object - requests
+ORA11_FREELIST_OBJ_REQUESTS_009_NAME=sum of requests
+ORA11_FREELIST_OBJ_REQUESTS_009_HELP=Is the base for the free list waits/requests percentage.
+
+// DBWR1 object - DBWR1
+ORA11_DBWR1_OBJ_009_NAME=Oracle11 DBWR stats 1
+ORA11_DBWR1_OBJ_009_HELP=The Oracle11 DBWR Object handles database writer statistics in Oracle11.
+
+// DBWR1 object - Buffers Scanned
+ORA11_DBWR1_OBJ_BUFFERS_SCANNED_009_NAME=buffers scanned/sec
+ORA11_DBWR1_OBJ_BUFFERS_SCANNED_009_HELP=Is the rate at which buffers are being scanned by DBWR.
+
+// DBWR1 object - LRU_SCANS
+ORA11_DBWR1_OBJ_LRU_SCANS_009_NAME=LRU scans/sec
+ORA11_DBWR1_OBJ_LRU_SCANS_009_HELP=Is the rate at which LRU scans are being done by DBWR.
+
+// DBWR2 object - DBWR2
+ORA11_DBWR2_OBJ_009_NAME=Oracle11 DBWR stats 2
+ORA11_DBWR2_OBJ_009_HELP=The Oracle11 DBWR Object handles database writer statistics in Oracle11.
+
+// DBWR2 object - TIMEOUTS
+ORA11_DBWR2_OBJ_TIMEOUTS_009_NAME=timeouts/sec
+ORA11_DBWR2_OBJ_TIMEOUTS_009_HELP=Is the rate at which timeouts are being called by DBWR.
+
+// DBWR2 object - CHECKPOINTS
+ORA11_DBWR2_OBJ_CHECKPOINTS_009_NAME=checkpoints/sec
+ORA11_DBWR2_OBJ_CHECKPOINTS_009_HELP=Is the rate at which checkpoints are being done by DBWR.
+
+// BUFFER object - BUFFER
+ORA11_BUFFER_OBJ_009_NAME=Oracle11 Buffer Cache
+ORA11_BUFFER_OBJ_009_HELP=The Oracle11 Buffer Cache Object handles the buffer cache ratio.
+
+// BUFFER object - phyreads
+ORA11_BUFFER_OBJ_PHYREADS_009_NAME=% phyreads/gets
+ORA11_BUFFER_OBJ_PHYREADS_009_HELP=Is the buffer cache phyreads/gets percentage.
+
+// BUFFER object - gets
+ORA11_BUFFER_OBJ_GETS_009_NAME=sum of gets
+ORA11_BUFFER_OBJ_GETS_009_HELP=Is the base for the phyreads/gets percentage.
+
+// REDO1 object - REDO
+ORA11_REDO1_OBJ_009_NAME=Oracle11 Redo Log Buffer
+ORA11_REDO1_OBJ_009_HELP=The Oracle11 Redo Log Buffer handles the redo log space requests.
+
+// RED01 object - requests
+ORA11_REDO1_OBJ_REQUESTS_009_NAME=redo log space requests
+ORA11_REDO1_OBJ_REQUESTS_009_HELP=Is the redo log space request.

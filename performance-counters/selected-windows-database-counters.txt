@@ -1,0 +1,35 @@
+\Database(HealthService)\Pages Converted/sec
+\Database(HealthService)\Pages Converted
+\Database(HealthService)\Records Converted/sec
+\Database(HealthService)\Records Converted
+\Database(HealthService)\Defragmentation Tasks
+\Database(HealthService)\Defragmentation Tasks Pending
+\Database(HealthService)\Sessions In Use
+\Database(HealthService)\Sessions % Used
+\Database(HealthService)\Table Open Cache % Hit
+\Database(HealthService)\Table Open Cache Hits/sec
+\Database(HealthService)\Table Open Cache Misses/sec
+\Database(HealthService)\Table Opens/sec
+\Database(HealthService)\Log Bytes Write/sec
+\Database(HealthService)\Log Bytes Generated/sec
+\Database(HealthService)\Log Threads Waiting
+\Database(HealthService)\Log Writes/sec
+\Database(HealthService)\Log Record Stalls/sec
+\Database(HealthService)\Version buckets allocated
+\Database(HealthService)\Database Cache Misses/sec
+\Database(HealthService)\Database Cache % Hit
+\Database(HealthService)\Database Cache Requests/sec
+\Database(HealthService)\Database Page Faults/sec
+\Database(HealthService)\Database Page Evictions/sec
+\Database(HealthService)\Database Page Fault Stalls/sec
+\Database(HealthService)\Database Cache Size (MB)
+\Database(HealthService)\Database Cache Size
+\Database(HealthService)\Database Cache Size Resident
+\Database(HealthService)\Database Cache Size Resident (MB)
+\Database(HealthService)\I/O Database Reads/sec
+\Database(HealthService)\I/O Database Reads Average Latency
+\Database(HealthService)\I/O Log Reads/sec
+\Database(HealthService)\I/O Database Writes/sec
+\Database(HealthService)\I/O Database Writes Average Latency
+\Database(HealthService)\I/O Log Writes/sec
+\Database(HealthService)\I/O Log Writes Average Latency

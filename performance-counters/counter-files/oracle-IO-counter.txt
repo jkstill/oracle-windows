@@ -1,0 +1,7 @@
+"\Database(HealthService)\I/O Database Reads/sec"
+"\Database(HealthService)\I/O Database Reads Average Latency"
+"\Database(HealthService)\I/O Log Reads/sec"
+"\Database(HealthService)\I/O Database Writes/sec"
+"\Database(HealthService)\I/O Database Writes Average Latency"
+"\Database(HealthService)\I/O Log Writes/sec"
+"\Database(HealthService)\I/O Log Writes Average Latency"
