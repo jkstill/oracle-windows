@@ -13,7 +13,6 @@ set sampleInterval=60
 
 mkdir %metricsDrive%\%metricsHome%\%outputDir%
 
-
 copy /y timestamp.cmd %metricsDrive%\%metricsHome%
 
 @rem timestamp called by master script
@@ -21,7 +20,8 @@ copy /y timestamp.cmd %metricsDrive%\%metricsHome%
 @call timestamp.cmd
 
 set countersFile=win-%1%-counters.txt
-set metricsFile=win-%1%-counters--%%timestamp%.csv
+@REM the syntax requires to put a dash before the timestamp is bizarre
+set metricsFile=win-%1-%-%%timestamp%.csv
 mkdir %metricsDrive%%metricsHome%\%counterFileDir%
 
 copy /y counter-files\%countersFile% %metricsDrive%%metricsHome%\%counterFileDir%
@@ -35,5 +35,4 @@ cd %metricsHome%
 call C:\Windows\System32\typeperf.exe -f CSV -cf %metricsDrive%%metricsHome%\%counterFileDir%\%countersFile% -o %metricsDrive%%metricsHome%\%outputDir%\%metricsFile% -sc %sampleCount% -si %sampleInterval% -y
 
 exit
-
 
