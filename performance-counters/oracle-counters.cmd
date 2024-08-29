@@ -29,7 +29,7 @@ copy /y timestamp.cmd %metricsDrive%\%metricsHome%
 @call timestamp.cmd
 
 set countersFile=oracle-%1%-counters.txt
-set metricsFile=oracle-%1%-counters--%%timestamp%.csv
+set metricsFile=oracle-%1-%-%%timestamp%.csv
 mkdir %metricsDrive%%metricsHome%\%counterFileDir%
 
 copy /y counter-files\%countersFile% %metricsDrive%%metricsHome%\%counterFileDir%
