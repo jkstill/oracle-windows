@@ -2,6 +2,19 @@
 Run Windows and Oracle Performance Counters
 ============================================
 
+## Quick Start
+
+Create directory c:\users\administrator\counters
+
+Unzip counters-setup.zip into c:\users\administrator\counters
+
+Edit set-vars.cmd
+
+Run run-all-counters.cmd
+
+
+## Overview
+
 Up through Oracle 12, the `Oracle Performance Counters for Windows` could be installed.
 
 Later versions do not have these same counters, though some counters may be available.

@@ -2,4 +2,4 @@
 @REM win-network-counters.cmd
 @echo off
 
-win-counters.cmd network
+C:\users\administrator\counters\win-counters.cmd network

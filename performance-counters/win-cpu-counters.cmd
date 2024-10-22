@@ -2,5 +2,5 @@
 @REM win-cpu-counters.cmd
 @echo off
 
-win-counters.cmd cpu
+C:\users\administrator\counters\win-counters.cmd cpu
 
